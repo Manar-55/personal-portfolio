@@ -4,6 +4,9 @@ A modern personal portfolio website built with HTML , CSS , and JavaScript .
 ## Overview
 This project showcases my background, technical skills, projects, education, and contact information through a clean and modern user interface.
 
+## Live Demo
+https://manar-55.github.io/Personal-Portfolio/
+
 ## Features
 - Responsive design
 - Modern user interface
